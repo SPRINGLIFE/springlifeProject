@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE liste SYSTEM "D:\Projet_java\AutoPlus\src\ListeDTD.dtd">
+
+<liste>
+<étudiant code="E1">
+<nom>Moujtahid</nom>
+<prénom>Moujidd</prénom>
+<age>25</age>
+<adresse>25, rue Najah</adresse>
+<description>
+Moujtahid Moujidd est un étudiant brillant. Il est majeur de sa promotion. Après avoir obtenu son bac sciences Math avec la mention très bien. Il s'est inscrit à l'Ecole.
+</description>
+<photo source="moujtahid.jpg"/>
+</étudiant>
+<étudiant code="E2">
+<nom>Kaddouri</nom>
+<prénom>Kaddour</prénom>
+<age>26</age>
+<adresse>26, rue Al Falah</adresse>
+<description>
+Kaddouri Kaddour a suivi toutes ses années de la licence au sein de l'Ecole. Ses compétences remarquables lui ont permis de suivre ses études supérieures avancées
+</description>
+<photo source="kaddouri.jpg"/>
+</étudiant>
+<étudiant code="E3">
+<nom>Jallouli</nom>
+<prénom>Jalloul</prénom>
+<age>27</age>
+<adresse>26, rue Jil-Jilala</adresse>
+<description>
+Jallouli Jalloul a suivi toutes ses années de la licence au sein de l'Ecole.
+</description>
+<photo source="jallouli.jpg"/>
+</étudiant>
+<étudiant code="E4">
+<nom>Kaslani</nom>
+<prénom>Kassoul</prénom>
+<age>35</age>
+<adresse>20359, Hay Annissyane</adresse>
+<description>
+Kaslani Kassoul est l'étudiant le plus ancien de l'Ecole. Il a changé plusieurs fois d'orientation. Il se prépare cette année pour valider au moins un module (niveau 2ème année de 1er cycle).
+</description>
+<photo source="kaslani.jpg"/>
+</étudiant>
+</liste>

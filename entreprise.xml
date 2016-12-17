@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!DOCTYPE entreprise [
+  <!ELEMENT entreprise (nom_entreprise,adresse,domaine)>
+  <!ELEMENT nom_entreprise (#PCDATA)>
+  <!ELEMENT adresse (#PCDATA)>
+  <!ELEMENT domaine (#PCDATA)>
+]>
+
+<entreprise>
+   <nom_entreprise> SPRINGLIFE </nom_entreprise> 
+   <adresse> 12 BD HASSAN 2 AGADIR </adresse>
+   <domaine> WEB DEVELOPMENT USING ASP </domaine>
+</entreprise>

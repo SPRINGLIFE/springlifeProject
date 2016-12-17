@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!DOCTYPE personnel [
+  <!ELEMENT personnel (personne)>
+  <!ELEMENT personne (nom,prénom,age,departement)>
+  <!ELEMENT nom (#PCDATA)>
+  <!ELEMENT prénom (#PCDATA)>
+  <!ELEMENT age (#PCDATA)>
+  <!ELEMENT departement (#PCDATA)>
+]>
+
+<personnel>
+    
+   <personne>
+      <nom>  LAKTIB </nom> 
+      <prénom> AZIZ </prénom>
+      <age> 45 ans </age>
+      <departement> Service technique </departement>
+   </personne>
+  
+</personnel>

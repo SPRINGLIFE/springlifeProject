@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no">
+<!DOCTYPE description_organisation [
+<!ENTITY entreprise SYSTEM "entreprise.xml">
+<!ENTITY personnel SYSTEM "personnel.xml">
+<!ELEMENT description_organisation (#ANY) >
+]>
+<!-- Debut du document XML-->
+<description_organisation>
+&entreprise;
+&personnel;
+</description_organisation>
+
+
